@@ -7,3 +7,4 @@ PROBLEM:  • Streaming services are a fierce competitor to the Rockbuster Steal
 • Rockbuster in his database has 599 customers in 108 different countries, 1000 films in 6 different languages, 20 different genres, and 200 actors.
 • On average films are rented for a period of 5 days.
 # ![image](https://user-images.githubusercontent.com/132085600/235224504-bfcbcf25-73fc-42d4-8141-c2d9cbd7340a.png)
+https://public.tableau.com/app/profile/babafemi.olawale.olayinka/viz/RockbusterStealthInc_RevenueVisauls/Choropleth
